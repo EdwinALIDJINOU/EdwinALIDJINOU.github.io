@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+
+.login {
+    /*background-image: url(wallhaven.png);*/
+    background-position-x: left;
+    background-position-y: center;
+    position: absolute;
+    margin-left: auto;
+}
+.login{
+  animation-name: example;
+  animation-duration: 4s;
+  animation-direction: alternate-reverse;
+}
+#login {animation-timing-function: linear;}
